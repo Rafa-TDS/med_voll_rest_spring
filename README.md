@@ -3,9 +3,15 @@ projeto de uma clínica médica fictícia que precisa de um aplicativo para moni
 técnologias estudadas:
 
 Spring Boot 3
+
 Java 17
+
 Lombok
+
 MySQL/ Flyway
+
 JPA/Hibernate
+
 Maven
+
 Insomnia
